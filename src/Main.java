@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Essa mancho aqui e o ScreenMatch");
+        System.out.printf("Essa aqui e o ScreenMatch");
         System.out.println("Filme: Rio");
 
         int anoDeLancamento = 2022;
@@ -16,7 +16,7 @@ public class Main {
         String sinopse;
         sinopse = """
                 Filme Rio
-                Filme infancil com passaros do RJ
+                Filme infantil com passaros do RJ
                 Muito Bom!
                 Ano de Lancamento: 
                 """ + anoDeLancamento;
